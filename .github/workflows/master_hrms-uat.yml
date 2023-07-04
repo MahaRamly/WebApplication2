@@ -4,9 +4,7 @@
 name: Build and deploy ASP.Net Core app to Azure Web App - HRMS-UAT
 
 on:
-  push:
-    branches:
-      - master
+ 
   workflow_dispatch:
 
 jobs:
